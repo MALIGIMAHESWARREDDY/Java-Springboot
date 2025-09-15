@@ -1,34 +1,24 @@
-public class Variables {
-
+public class Strings {
     public static void main(String[] args){
-        // variables
-
-
-        int nooflikes = 1000;
-        float pricePerkg = 72.4f;
-        char singlechar = 'm';
-        boolean isliked = true;
-        boolean isdisliked = false;
-
-        System.out.println(nooflikes);
-        System.out.println(pricePerkg);
-        System.out.println(singlechar);
-        System.out.println(isliked);
-        System.out.println(isdisliked);
-// charactor or length of the user Name
+       
+       
+ // charactor or length of the user Name
         String userName = "maligi maheswarreddy";
         System.out.println(userName);
         userName = "maligi";
         System.out.println(userName);
         System.out.println(userName.length());
+
 //unwanted spacing remove
         userName = " maligi  maheswarreddy ";
         System.out.println(userName.trim());
         System.out.println(userName.length());
+
 // first name and lastname adding
         var userFirstName = "maligi";
         var userSecondName = "reddy";
         System.out.println(userFirstName+" "+userSecondName);
+
 // coupon code validation
         String orgCouponcode = "FIRST50";
         String userCouponcode = "first50";
@@ -39,7 +29,7 @@ public class Variables {
         orgCouponcode = orgCouponcode.toLowerCase();
         System.out.println(orgCouponcode .equals(userCouponcode));
 
-        // Try different string methods on your name, email, state and country.
+ // Try different string methods on your name, email, state and country.
 
         String Name = "maligi maheswar reddy";
         Name = "Maligi";
@@ -56,7 +46,7 @@ public class Variables {
         System.out.println(fullName);
 
 
-        // gmail
+// gmail
 
         String userEmail = "maligimaheswarreddy@gmail.com";
         userEmail=" maligimaheswarreddy@gmail.com ";
@@ -64,7 +54,7 @@ public class Variables {
         System.out.println(userEmail.length());
         System.out.println(userEmail.trim());
 
-        // state country
+// state country
 
         String userState= "ap";
         System.out.println(userState);
@@ -76,3 +66,4 @@ public class Variables {
 
     }
 }
+    
