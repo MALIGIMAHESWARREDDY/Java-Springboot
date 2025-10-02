@@ -28,7 +28,7 @@ class Numbervar{
 
         //example problems
 
-        float price = 109.99f;
+        float price = 119.99f;
         int quantitys = 199;
 
         price = price*quantitys;
