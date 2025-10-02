@@ -4,7 +4,7 @@ class Variables {
         // variables
 
 
-        int nooflikes = 1000;
+        int nooflikes = 10000;
         float pricePerkg = 72.4f;
         char singlechar = 'm';
         boolean isliked = true;
