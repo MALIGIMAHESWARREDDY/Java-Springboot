@@ -2,9 +2,9 @@ class AndOrNot{
     public static void main (String []args){
 
 // conditional statements
-        int adminId = 10;
+        int adminId = 11;
         int editorId = 15;
-        int loggedInUserId = 10;
+        int loggedInUserId = 11;
 
         if(adminId == loggedInUserId){
             System.out.println("welcome Admin");
