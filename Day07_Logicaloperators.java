@@ -3,10 +3,10 @@ class Logicaloperators{
 
     // And operator 
     
-    String ddEmail = "maligimahes@gmail.com";
+    String ddEmail = "maligimahesh@gmail.com";
     String ddPassword = "mahesh123@";
 
-    String userEmail = "maligimahes@gmail.com";
+    String userEmail = "maligimahesh@gmail.com";
     String userPassword = "mahesh123@";
 
     System.out.println(ddEmail == userEMail && ddPassword = userPassword) // true
