@@ -15,7 +15,7 @@ public class Strings {
         System.out.println(userName.length());
 
 // first name and lastname adding
-        var userFirstName = "maligi";
+        var userFirstName = "maligimahesh";
         var userSecondName = "reddy";
         System.out.println(userFirstName+" "+userSecondName);
 
