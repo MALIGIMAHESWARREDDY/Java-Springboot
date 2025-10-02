@@ -11,7 +11,7 @@ class NumbersVaribles{
 
     System.out.println(productprice+bisuketMrp*quantity);
 
-    productprice = 999;
+    productprice = 99999;
     bisuketMrp = 14.00f;
     quantity = 3;
 
